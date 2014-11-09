@@ -18,4 +18,13 @@ thus granting even more flexibility and power to the user.
 
 ---
 
-Reflect:
+Reflect: Commit Size
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I an use the staging area to make sure I have one commit per logical change by only staging the files
+that are involved in the single logical change I want to commit.
+
+---
+
+Reflect: 
