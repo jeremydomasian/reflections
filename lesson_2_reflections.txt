@@ -1,0 +1,21 @@
+Reflect: Initializing a Repository
+
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, you're telling Git to get ready to start tracking commits.
+You're creating the hidden .git directory, which is where all of the file history and changes will be saved.
+
+---
+
+Reflect: Staging Area
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's different in that it is the platform or "stage" that is used between the working directory and the repository.
+It is the go-to, transitionary platform that allows you to pick and choose what files you want to commit.
+It's valuable in that you're able to pick and choose what files you'd like to include in your commit,
+thus granting even more flexibility and power to the user.
+
+---
+
+Reflect:

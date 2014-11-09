@@ -1,0 +1,72 @@
+Prompt #1:
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Answer:
+Viewing a diff between two versions of a file helped me see the bug that was introduced by:
+Showing what was originally written in the old file and
+Being able to compare the spelling / content in the new file
+Indicating what was originally intended
+
+---
+
+Prompt #2:
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Answer:
+Easy access to the entire history of a file can make me a more efficient programmer in the long run by helping me identify
+bugs easier and keep track of the changes I make to my code.
+
+---
+
+Prompt #3:
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Answer:
+Pros of manual commits:
+- Allows for clear, logical checkpoints
+
+Cons of manual commits:
+- User error is likely (forgetting to commit)
+
+Pros of automatic version saving:
+- Dependable, consistent saving
+
+Cons of automatic version saving:
+- Unclear, illogical, and excessivel checkpoints are likely
+
+---
+
+Prompt #4:
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer:
+Because when coding, especially in web development (HTML, CSS & JavaScript):
+Files are dependent on one another and so should be tracked together as changes are made.
+ For example, an HTML button might be added that is stylized with CSS and whose functionality is added using JavaScript.
+
+---
+
+Prompt #5:
+How can you use the commands git log and git diff to view the history of files?
+
+Answer:
+By using 'git log' to find the commit IDs of the commits I want to compare, 
+then using 'git diff' to view the differences / changes made.
+
+---
+
+Prompt #6:
+How might using version control make you more confident to make changes that could break something?
+
+Answer:
+It makes me more confident knowing that I can play around with my code, make mistakes, and break things
+and instantly go back to a commit that I know has worked before the changes.
+
+---
+
+Prompt #7:
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Answer:
+Use it to create my web app projects - something like a Bay Area kick-it map, where it embeds a Google Map
+and lists descriptions and labels when you click on destinations on the map.
