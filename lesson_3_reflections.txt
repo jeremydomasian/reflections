@@ -19,4 +19,21 @@ updates, otherwise it could pull in non-working code.
 
 ---
 
+Reflect: Forks, Clones, and Branches
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are GitHub-exclusive clones. Forking takes someone's repository that is hosted on GitHub and clones it,
+so that you have your own personal repository that you can make changes to without affecting the original
+repository that you forked from. i.e., remote-to-remote
+
+Clones are exact copies of a repository. Cloning means taking all of the commits, descending from the
+latest commit to each subsequent parent, and copying it to another location, whether it's from local-to-local
+or remote-to-local. Local-to-remote is called "pushing."
+
+Branches are labels and checkpoints for special commits. They represent a new version, variation, experimental
+feature, or otherwise logical set of changes that you want to keep separate from the master branch.
+
+---
+
 Reflect: 
