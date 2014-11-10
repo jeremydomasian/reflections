@@ -46,4 +46,13 @@ in case you won't be able to reach the remote for an extended period of time.
 
 ---
 
+Reflect: Collaboration using Git and GitHub
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Probably emailing files back and forth. Git and GitHUb are definitely easier and make things
+so much more ideal when collaborating together.
+
+---
+
 Reflect: 
