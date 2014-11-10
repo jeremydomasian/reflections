@@ -27,4 +27,27 @@ that are involved in the single logical change I want to commit.
 
 ---
 
+Reflect: When to Use Branches
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Making a new version of something, or working on an experimental feature, or any situation where
+you want to "branch" off into another line of work while still working alongside a "master" branch.
+Branches would help by allowing you to work separately from the "master" branch, which typically
+is the branch of code that works and is the main branch where deployment happens, and allows you to merge
+when ready or necessary.
+
+---
+
+Reflect: Visualizing with Diagrams
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help me visualize the branch structure by giving me a simplified, illustrated way
+of viewing how Git and branches work. They also help me understand the relationships between
+different commits and branches and the effect that certain commands such as 'git checkout'
+and 'git branch' have on the history and 'reachability' of certain commits.
+
+---
+
 Reflect: 
