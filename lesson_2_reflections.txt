@@ -50,4 +50,15 @@ and 'git branch' have on the history and 'reachability' of certain commits.
 
 ---
 
+Reflect: Merging Two Branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is one branch combining with another, with the 'master' branch
+typically "absorbing" the other branch and continuing on its merry way. We represent it the way we do
+in the diagram because all of the changes that took place in the other branch is combined or 'merged' into
+the master branch.
+
+---
+
 Reflect: 
