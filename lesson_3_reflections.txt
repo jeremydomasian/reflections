@@ -55,4 +55,21 @@ so much more ideal when collaborating together.
 
 ---
 
+Reflect: When to use a separate branch
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To work on a separate feature or other goal that should not interrupt the current code that is in
+the master branch. 
+
+Benefits of separate branch:
+- Keeps track of changes in its own branch
+- Allows for experimentation by separating the code out into its own branch
+
+Benefits of direct-to-master:
+- See the results immediately
+- Less complexity and having to deal with merge conflicts
+
+---
+
 Reflect: 
