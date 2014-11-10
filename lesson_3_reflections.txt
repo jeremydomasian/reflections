@@ -8,3 +8,15 @@ Probably all the time; more specifically speaking:
 - backing up code in case something happens to your local copies
 
 ---
+
+Reflect: Manual vs. automatic pull
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because you might be working on something that isn't yet ready for public viewing yet
+or the remote repository must stay working/reliable and so should not take in automatic
+updates, otherwise it could pull in non-working code.
+
+---
+
+Reflect: 
