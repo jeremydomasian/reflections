@@ -1,0 +1,10 @@
+Reflect: Using a remote repository
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+Probably all the time; more specifically speaking:
+- for collaborating on code with others
+- sharing code with an audience
+- backing up code in case something happens to your local copies
+
+---
