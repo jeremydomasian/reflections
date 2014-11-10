@@ -36,4 +36,14 @@ feature, or otherwise logical set of changes that you want to keep separate from
 
 ---
 
+Reflect: Local copies of remote branches
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit of having a copy of the last known state of the remote stored locally is:
+that you're able to merge commits to that copy of the remote locally first
+in case you won't be able to reach the remote for an extended period of time.
+
+---
+
 Reflect: 
